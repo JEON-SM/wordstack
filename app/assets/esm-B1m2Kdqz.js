@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-BxT-fRtt.js","./index-Cvn1WF98.js","./index-BEpzd9U_.css"])))=>i.map(i=>d[i]);
+import{_ as e,m as t}from"./index-Cvn1WF98.js";var n=e(`Browser`,{web:()=>t(()=>import(`./web-BxT-fRtt.js`).then(e=>new e.BrowserWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{n as Browser};
